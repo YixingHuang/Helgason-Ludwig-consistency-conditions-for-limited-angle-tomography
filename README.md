@@ -2,9 +2,6 @@
 ## Restoration of missing data in limited angle tomography based on Helgason–Ludwig consistency conditions
 This is the official Java code for our implementation of Restoration of missing data in limited angle tomography based on Helgason–Ludwig consistency conditions paper.
 
-![Figure 4](Fig4.PNG)
-![Figure 7](Fig7.PNG)
-![Figure 12](Fig12.PNG)
 
 ## Citation
 [1] Huang Y, Huang X, Taubmann O, Xia Y, Haase V, Hornegger J, Lauritsch G, Maier A. Restoration of missing data in limited angle tomography based on Helgason–Ludwig consistency conditions. Biomedical Physics & Engineering Express. 2017 May 25;3(3):035015.
@@ -29,3 +26,8 @@ Please install Java and CONRAD first. The installation tutorial for CONRAD is [h
 To run this code, please create a folder called "hlcc" in the directory of package edu.stanford.rsl.tutorial.
 
 
+## Some result figures
+
+![Figure 4](Fig4.PNG)
+![Figure 7](Fig7.PNG)
+![Figure 12](Fig12.PNG)
