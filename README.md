@@ -1,6 +1,6 @@
 # Helgason-Ludwig-consistency-conditions
 ## Restoration of missing data in limited angle tomography based on Helgason–Ludwig consistency conditions
-This is the official Java code for our implementation of Restoration of missing data in limited angle tomography based on Helgason–Ludwig consistency conditions paper.
+This is the official Java code for our implementation of "Restoration of missing data in limited angle tomography based on Helgason–Ludwig consistency conditions" paper.
 
 
 ## Citation
