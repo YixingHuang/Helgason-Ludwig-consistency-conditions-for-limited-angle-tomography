@@ -20,3 +20,8 @@ Bibtex:
 ```
 
 This implementation is in the framework of [CONRAD](https://github.com/akmaier/CONRAD).
+Please install Java and CONRAD first. The installation tutorial for CONRAD is [here(https://www5.cs.fau.de/conrad/tutorials/user-guide/installation/)
+
+To run this code, please create a folder called "hlcc" in the directory of package edu.stanford.rsl.tutorial.
+
+
