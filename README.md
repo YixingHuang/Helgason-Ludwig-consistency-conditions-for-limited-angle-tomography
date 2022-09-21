@@ -20,6 +20,9 @@ Bibtex:
 }
 ```
 
+## Presentation
+One presentation to explain the details is [here](Slides_HLCC in Limited Angle Reconstruction.pdf).
+
 ## Usage/installation
 
 This implementation is in the framework of [CONRAD](https://github.com/akmaier/CONRAD).
