@@ -29,7 +29,13 @@ To run this code, please create a folder called "hlcc" in the directory of packa
 
 ## The influence of Chebyshev Fourier transform orders
 
-![](1_restoredSinogramsFromDifferentOrders.gif)
+![Sinograms](1_restoredSinogramsFromDifferentOrders.gif "Restored sinograms from different orders")
+
+![Images](2_imagesReconstructedFromRestoredSinograms.gif "Reconstructed images from different orders")
+
+![FourierImages](3_FourierTransformsOfReconstructedImages.gif "Fourier transforms of reconstructed images from different orders")
+
+![FourierSinograms](4_FourierTransformsOfRestoredSinograms.gif "Fourier transforms of sinograms restored from different orders")
 
 ## Some result figures
 
