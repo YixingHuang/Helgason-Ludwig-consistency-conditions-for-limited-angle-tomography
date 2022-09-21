@@ -21,7 +21,7 @@ Bibtex:
 ```
 
 ## Presentation
-One presentation to explain the details is [here](Slides_HLCC in Limited Angle Reconstruction.pdf).
+One presentation to explain the details is [here](Slides_HLCC_Limited_Angle_Reconstruction.pdf).
 
 ## Usage/installation
 
