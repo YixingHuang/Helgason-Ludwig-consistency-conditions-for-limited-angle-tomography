@@ -27,6 +27,9 @@ Please install Java and CONRAD first. The installation tutorial for CONRAD is [h
 
 To run this code, please create a folder called "hlcc" in the directory of package [edu.stanford.rsl.tutorial](https://github.com/akmaier/CONRAD/tree/master/src/edu/stanford/rsl/tutorial) and copy these codes into this folder.
 
+## The influence of Chebyshev Fourier transform orders
+
+![](1_restoredSinogramsFromDifferentOrders.gif)
 
 ## Some result figures
 
