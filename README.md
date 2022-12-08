@@ -30,6 +30,9 @@ Please install Java and CONRAD first. The installation tutorial for CONRAD is [h
 
 To run this code, please create a folder called "hlcc" in the directory of package [edu.stanford.rsl.tutorial](https://github.com/akmaier/CONRAD/tree/master/src/edu/stanford/rsl/tutorial) and copy these codes into this folder.
 
+## The Fourier transform of Chebyshev polynomials
+
+![Figure1](Chebyshev_polynomials.PNG)
 ## The influence of Chebyshev Fourier transform orders
 
 ![Sinograms](1_restoredSinogramsFromDifferentOrders.gif "Restored sinograms from different orders")
